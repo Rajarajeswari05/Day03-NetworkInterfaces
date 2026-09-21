@@ -2,12 +2,8 @@
 
 ## Cybersecurity Internship Assignment
 
-**Name:** S Raja Rajeswari  
-**Role:** Cybersecurity Intern  
-**Training:** Jayvik Labs  
-**Assignment:** Day 03 – Network Interfaces and Cables
 
----
+
 
 ## 1. What is a Network Interface Card?
 
